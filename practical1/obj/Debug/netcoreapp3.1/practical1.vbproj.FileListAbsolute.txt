@@ -1,0 +1,14 @@
+E:\About Dot Net\practical1\practical1\obj\Debug\netcoreapp3.1\practical1.Form1.resources
+E:\About Dot Net\practical1\practical1\obj\Debug\netcoreapp3.1\practical1.vbproj.GenerateResource.cache
+E:\About Dot Net\practical1\practical1\obj\Debug\netcoreapp3.1\practical1.AssemblyInfoInputs.cache
+E:\About Dot Net\practical1\practical1\obj\Debug\netcoreapp3.1\practical1.AssemblyInfo.vb
+E:\About Dot Net\practical1\practical1\obj\Debug\netcoreapp3.1\practical1.vbproj.CoreCompileInputs.cache
+E:\About Dot Net\practical1\practical1\bin\Debug\netcoreapp3.1\practical1.exe
+E:\About Dot Net\practical1\practical1\bin\Debug\netcoreapp3.1\practical1.deps.json
+E:\About Dot Net\practical1\practical1\bin\Debug\netcoreapp3.1\practical1.runtimeconfig.json
+E:\About Dot Net\practical1\practical1\bin\Debug\netcoreapp3.1\practical1.runtimeconfig.dev.json
+E:\About Dot Net\practical1\practical1\bin\Debug\netcoreapp3.1\practical1.dll
+E:\About Dot Net\practical1\practical1\bin\Debug\netcoreapp3.1\practical1.pdb
+E:\About Dot Net\practical1\practical1\obj\Debug\netcoreapp3.1\practical1.dll
+E:\About Dot Net\practical1\practical1\obj\Debug\netcoreapp3.1\practical1.pdb
+E:\About Dot Net\practical1\practical1\obj\Debug\netcoreapp3.1\practical1.genruntimeconfig.cache
