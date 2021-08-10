@@ -1,0 +1,12 @@
+E:\About Dot Net\practical4\practical 4\bin\Debug\netcoreapp3.1\practical 4.exe
+E:\About Dot Net\practical4\practical 4\bin\Debug\netcoreapp3.1\practical 4.deps.json
+E:\About Dot Net\practical4\practical 4\bin\Debug\netcoreapp3.1\practical 4.runtimeconfig.json
+E:\About Dot Net\practical4\practical 4\bin\Debug\netcoreapp3.1\practical 4.runtimeconfig.dev.json
+E:\About Dot Net\practical4\practical 4\bin\Debug\netcoreapp3.1\practical 4.dll
+E:\About Dot Net\practical4\practical 4\bin\Debug\netcoreapp3.1\practical 4.pdb
+E:\About Dot Net\practical4\practical 4\obj\Debug\netcoreapp3.1\practical 4.AssemblyInfoInputs.cache
+E:\About Dot Net\practical4\practical 4\obj\Debug\netcoreapp3.1\practical 4.AssemblyInfo.vb
+E:\About Dot Net\practical4\practical 4\obj\Debug\netcoreapp3.1\practical 4.vbproj.CoreCompileInputs.cache
+E:\About Dot Net\practical4\practical 4\obj\Debug\netcoreapp3.1\practical 4.dll
+E:\About Dot Net\practical4\practical 4\obj\Debug\netcoreapp3.1\practical 4.pdb
+E:\About Dot Net\practical4\practical 4\obj\Debug\netcoreapp3.1\practical 4.genruntimeconfig.cache
