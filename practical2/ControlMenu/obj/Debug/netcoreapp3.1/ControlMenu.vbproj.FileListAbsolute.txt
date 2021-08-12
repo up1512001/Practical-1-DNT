@@ -1,0 +1,14 @@
+E:\About Dot Net\practical2\ControlMenu\obj\Debug\netcoreapp3.1\ControlMenu.Form1.resources
+E:\About Dot Net\practical2\ControlMenu\obj\Debug\netcoreapp3.1\ControlMenu.vbproj.GenerateResource.cache
+E:\About Dot Net\practical2\ControlMenu\obj\Debug\netcoreapp3.1\ControlMenu.AssemblyInfoInputs.cache
+E:\About Dot Net\practical2\ControlMenu\obj\Debug\netcoreapp3.1\ControlMenu.AssemblyInfo.vb
+E:\About Dot Net\practical2\ControlMenu\obj\Debug\netcoreapp3.1\ControlMenu.vbproj.CoreCompileInputs.cache
+E:\About Dot Net\practical2\ControlMenu\bin\Debug\netcoreapp3.1\ControlMenu.exe
+E:\About Dot Net\practical2\ControlMenu\bin\Debug\netcoreapp3.1\ControlMenu.deps.json
+E:\About Dot Net\practical2\ControlMenu\bin\Debug\netcoreapp3.1\ControlMenu.runtimeconfig.json
+E:\About Dot Net\practical2\ControlMenu\bin\Debug\netcoreapp3.1\ControlMenu.runtimeconfig.dev.json
+E:\About Dot Net\practical2\ControlMenu\bin\Debug\netcoreapp3.1\ControlMenu.dll
+E:\About Dot Net\practical2\ControlMenu\bin\Debug\netcoreapp3.1\ControlMenu.pdb
+E:\About Dot Net\practical2\ControlMenu\obj\Debug\netcoreapp3.1\ControlMenu.dll
+E:\About Dot Net\practical2\ControlMenu\obj\Debug\netcoreapp3.1\ControlMenu.pdb
+E:\About Dot Net\practical2\ControlMenu\obj\Debug\netcoreapp3.1\ControlMenu.genruntimeconfig.cache
